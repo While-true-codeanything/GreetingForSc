@@ -1,0 +1,10 @@
+C:\Users\Egor\source\repos\Greeting\bin\Debug\Greeting.exe.config
+C:\Users\Egor\source\repos\Greeting\bin\Debug\Greeting.exe
+C:\Users\Egor\source\repos\Greeting\bin\Debug\Greeting.pdb
+C:\Users\Egor\source\repos\Greeting\obj\Debug\Greeting.csprojAssemblyReference.cache
+C:\Users\Egor\source\repos\Greeting\obj\Debug\Greeting.Greeting.resources
+C:\Users\Egor\source\repos\Greeting\obj\Debug\Greeting.Properties.Resources.resources
+C:\Users\Egor\source\repos\Greeting\obj\Debug\Greeting.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Greeting\obj\Debug\Greeting.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Greeting\obj\Debug\Greeting.exe
+C:\Users\Egor\source\repos\Greeting\obj\Debug\Greeting.pdb
