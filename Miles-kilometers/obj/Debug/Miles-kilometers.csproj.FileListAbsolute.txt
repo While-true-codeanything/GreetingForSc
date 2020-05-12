@@ -1,0 +1,10 @@
+C:\Users\Egor\source\repos\Miles-kilometers\bin\Debug\Miles-kilometers.exe.config
+C:\Users\Egor\source\repos\Miles-kilometers\bin\Debug\Miles-kilometers.exe
+C:\Users\Egor\source\repos\Miles-kilometers\bin\Debug\Miles-kilometers.pdb
+C:\Users\Egor\source\repos\Miles-kilometers\obj\Debug\Miles-kilometers.csprojAssemblyReference.cache
+C:\Users\Egor\source\repos\Miles-kilometers\obj\Debug\Miles_kilometers.Form1.resources
+C:\Users\Egor\source\repos\Miles-kilometers\obj\Debug\Miles_kilometers.Properties.Resources.resources
+C:\Users\Egor\source\repos\Miles-kilometers\obj\Debug\Miles-kilometers.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Miles-kilometers\obj\Debug\Miles-kilometers.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Miles-kilometers\obj\Debug\Miles-kilometers.exe
+C:\Users\Egor\source\repos\Miles-kilometers\obj\Debug\Miles-kilometers.pdb

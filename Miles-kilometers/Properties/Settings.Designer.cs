@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Greeting.Properties
+namespace Miles_kilometers.Properties
 {
 
 

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Greeting
+namespace Miles_kilometers
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace Greeting
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Greeting());
+            Application.Run(new Form1());
         }
     }
 }

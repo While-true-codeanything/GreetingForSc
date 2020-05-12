@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C740A26A-05D4-48D4-978F-7BFCD149F8A1}</ProjectGuid>
+    <ProjectGuid>{FE8BB140-6373-4CD5-8FD8-25A6E7284B3A}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Greeting</RootNamespace>
-    <AssemblyName>Greeting</AssemblyName>
+    <RootNamespace>Miles_kilometers</RootNamespace>
+    <AssemblyName>Miles-kilometers</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
